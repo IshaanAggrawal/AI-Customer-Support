@@ -1,0 +1,24 @@
+services:
+  - type: web
+    name: ai-support-backend
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn backend.src.main:app --host 0.0.0.0 --port $PORT
+    plan: free
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.10.12
+      - key: PROJECT_NAME
+        value: "AI Copilot"
+      - key: EMBEDDING_MODEL
+        value: "models/text-embedding-004"
+      - key: LLM_MODEL
+        value: "groq/llama-3.3-70b-versatile"
+      - key: SUPABASE_DB_URL
+        sync: false
+      - key: LLM_API_KEY
+        sync: false
+      - key: EMBEDDING_API_KEY
+        sync: false
+      - key: ADMIN_API_KEY
+        sync: false
