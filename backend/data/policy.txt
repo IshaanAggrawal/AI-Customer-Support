@@ -1,0 +1,77 @@
+TECHGIZMO SERVICES - OFFICIAL KNOWLEDGE BASE & TERMS OF SERVICE
+Last Updated: December 2025
+
+==============================================================================
+SECTION 1: GENERAL TERMS OF SERVICE
+==============================================================================
+
+1.1 ACCOUNT RESPONSIBILITIES
+To use TechGizmo services, you must create an account with accurate and complete information. 
+You are responsible for maintaining the confidentiality of your account credentials and for 
+all activities that occur under your account. You must notify us immediately of any 
+unauthorized use of your account. We reserve the right to terminate accounts that are inactive 
+for over 12 months.
+
+1.2 ACCEPTABLE USE POLICY
+You agree not to use the Service for any unlawful purpose or to violate any laws in your 
+jurisdiction. You must not transmit any worms, viruses, or any code of a destructive nature. 
+A breach or violation of any of the Terms will result in an immediate termination of your 
+Services.
+
+1.3 SERVICE AVAILABILITY
+We strive to provide 99.9% uptime for our cloud services. However, we do not guarantee that 
+the service will be uninterrupted, timely, secure, or error-free. Scheduled maintenance will 
+be communicated via email at least 48 hours in advance.
+
+==============================================================================
+SECTION 2: REFUND AND CANCELLATION POLICY
+==============================================================================
+
+2.1 STANDARD REFUND WINDOW
+We offer a full money-back guarantee for all purchases made on our website. If you are not 
+satisfied with the product that you have purchased from us, you can get your money back no 
+questions asked. You are eligible for a full reimbursement within 14 calendar days of your 
+purchase.
+
+2.2 ELIGIBILITY CONDITIONS
+After the 14-day period, you will no longer be eligible and won't be able to receive a refund. 
+To be eligible for a return, your item must be unused and in the same condition that you 
+received it. It must also be in the original packaging with all tags attached.
+
+2.3 NON-REFUNDABLE ITEMS
+Several types of goods are exempt from being returned. Perishable goods such as batteries, 
+hazardous materials, or flammable liquids cannot be returned. We also do not accept products 
+that are intimate or sanitary goods, hazardous materials, or downloadable software products 
+once the license key has been revealed.
+
+2.4 PROCESSING TIME
+Once your return is received and inspected, we will send you an email to notify you that we 
+have received your returned item. If you are approved, then your refund will be processed, 
+and a credit will automatically be applied to your credit card or original method of payment, 
+within 5-10 business days.
+
+==============================================================================
+SECTION 3: SHIPPING AND DELIVERY
+==============================================================================
+
+3.1 ORDER PROCESSING
+All orders are processed within 2-3 business days. Orders are not shipped or delivered on 
+weekends or holidays. If we are experiencing a high volume of orders, shipments may be 
+delayed by a few days.
+
+3.2 SHIPPING RATES
+Shipping charges for your order will be calculated and displayed at checkout.
+- Standard Shipping (5-7 business days): Free for orders over $50.
+- Expedited Shipping (2-3 business days): $12.95.
+- Overnight Delivery (1 business day): $25.00.
+
+3.3 INTERNATIONAL SHIPPING
+We currently ship to over 30 countries. Your order may be subject to import duties and taxes 
+(including VAT), which are incurred once a shipment reaches your destination country. 
+TechGizmo is not responsible for these charges if they are applied and are your responsibility 
+as the customer.
+
+3.4 LOST OR DAMAGED ITEMS
+TechGizmo is not liable for any products damaged or lost during shipping. If you received 
+your order damaged, please contact the shipment carrier to file a claim. Please save all 
+packaging materials and damaged goods before filing a claim.

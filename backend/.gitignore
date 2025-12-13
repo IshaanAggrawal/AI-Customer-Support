@@ -1,0 +1,24 @@
+# --- Security (CRITICAL) ---
+.env
+.env.local
+backend/.env
+**/*.env
+
+# --- Python ---
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
+
+# --- OS Junk ---
+.DS_Store
+Thumbs.db
+
+# --- IDEs ---
+.vscode/
+.idea/
+
+# --- Data ---
+# Optional: Uncomment if you don't want to commit your source text files
+# backend/data/*

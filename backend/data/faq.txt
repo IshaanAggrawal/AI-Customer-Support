@@ -1,0 +1,20 @@
+
+==============================================================================
+SECTION 4: TECHNICAL FAQ
+==============================================================================
+
+Q: How do I reset my password?
+A: Click "Forgot Password" on the login screen. You will receive an email with a reset link 
+valid for 1 hour.
+
+Q: Why is my device blinking red?
+A: A blinking red light indicates a network connectivity issue. Please hold the reset button 
+on the back of the device for 10 seconds to reboot the network module.
+
+Q: Can I share my subscription with others?
+A: The "Personal" plan is for a single user only. The "Family" plan allows up to 5 unique 
+user accounts under one billing ID. Sharing credentials on a Personal plan may lead to 
+account suspension.
+
+Q: How do I contact support?
+A: You can email support@techgizmo.com. Our typical response time is 24 hours.
